@@ -1,3 +1,15 @@
+---------------------------------------------------------------------------------
+
+if you wanna clone this repository, marshmallow specific branch use this command:
+
+git clone -b android-msm-bullhead-3.10-marshmallow-dr1.6 https://github.com/DirtyDev/kernel_msm
+
+
+---------------------------------------------------------------------------------        
+        
+        
+        
+        
         Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
